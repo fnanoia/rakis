@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src",
     "dev": "nodemon src",
-    "updated" : "npx gh-pages -d ."
+    "deploy" : "gh-pages -d ."
   },
   "keywords": [],
   "author": "",
