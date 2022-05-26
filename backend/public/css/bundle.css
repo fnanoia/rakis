@@ -1,0 +1,13 @@
+/*!****************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./frontend/styles/main.css ***!
+  \****************************************************************************/
+.footer{
+  background-color: black;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+/*# sourceMappingURL=bundle.css.map*/
